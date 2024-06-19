@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adelin232
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning e-Governance at UPB ACS
-- 💞️ I’m looking to collaborate on Spring projects
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on Spring or Flutter projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/narcis-adelin-miulet/)
 
 <!---
